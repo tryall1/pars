@@ -1,0 +1,58 @@
+body {
+	padding-top: 70px;
+}
+
+footer {
+	margin: 50px 0;
+}
+
+table td, th{
+	border-collapse: collapse;
+	border:1px solid black;
+}
+
+table thead tr{border-top:1px solid black;}
+
+#right{
+	position:absolute;
+	right:3%;
+	
+}
+
+/*#bs-example-navbar-collapse-1{position:absolute;}*/
+
+
+
+.navbar-nav{
+	/*width:100%;*/
+}
+.navbar-inverse .navbar-nav > li > a{}
+
+a.cart-clear{
+    padding:0px !important;
+    text-align:center;
+}
+
+li.corzine>a{
+    color:white !important;
+    font-size:16px;
+}
+
+a.cart{
+    padding:0px !important;
+    text-decoration:underline;
+}
+
+a.cart:hover{
+    text-decoration:underline;
+}
+
+td input.ton{
+    width:40px;
+    height: 25px;
+    text-align:center;
+}
+
+.row{
+   /* width: 100%;*/
+}
